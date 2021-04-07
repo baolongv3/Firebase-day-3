@@ -1,13 +1,11 @@
 export const environment = {
   production: true,
   firebaseConfig: {
-	  apiKey: "AIzaSyB3L876TXsXdthUzT_4F1_ga7swBMgaQxQ",
-	  authDomain: "realtime-collab.firebaseapp.com",
-	  databaseURL: "https://realtime-collab-default-rtdb.firebaseio.com",
-	  projectId: "realtime-collab",
-	  storageBucket: "realtime-collab.appspot.com",
-	  messagingSenderId: "792699906631",
-	  appId: "1:792699906631:web:76b83d0fb979d459d59f62",
-	  measurementId: "G-2S6X1TBPPS"
-	}
+    apiKey: "AIzaSyDQ3uZE8r2_58ygjgKmrL5bWsQ-WY2HEgY",
+    authDomain: "dsc-fptu-realtime-collab.firebaseapp.com",
+    projectId: "dsc-fptu-realtime-collab",
+    storageBucket: "dsc-fptu-realtime-collab.appspot.com",
+    messagingSenderId: "147097009292",
+    appId: "1:147097009292:web:54cff4390699cfa8e70fa9"
+  }
 };
